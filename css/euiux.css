@@ -1,0 +1,23 @@
+.nd {text-decoration:none;color:#000;}	
+.lf {float:left;margin-left:0px; font-size:16px;}
+.rt {float:right;margin-right:0px;font-size:16px;}
+.ct {text-align:center;text-align: -webkit-center;margin:0 0 8px 0;}
+.dn {margin:0 0 10px 0;display:block;height:40px;}
+.me {margin-left:20px;margin-top:20px;width:57px; height:57px;border:solid 3px #C0C0C0;}
+.y{font-size:13px;color:#2489CE;float:left;margin-top:3px;}
+.mob{
+	background:url(../images/iosand.png) no-repeat;width:82px; height:88px;display:block;
+}
+.him {
+	position:absolute;top:100px;margin-left:98px;white-space:nowrap;color:#000;font-weight:bold;
+}
+.rul {
+	color:#777777;font-style:normal;
+}
+.rul1 {
+	margin:10px 10px 0 10px;
+}
+.rul2{
+	margin:15px 10px 0 10px;
+}
+
