@@ -11,3 +11,9 @@
 .mc {
     margin-top:5px;
 }
+.rule1w {
+    margin:10px 10px 0 10px;
+}
+.rule2w {
+    display:inline-block;text-align:center;width:100%;
+}
