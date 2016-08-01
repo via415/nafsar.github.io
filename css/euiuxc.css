@@ -17,3 +17,25 @@
 .rule2w {
     display:inline-block;text-align:center;width:100%;
 }
+.logo {
+    width:230px;
+    height:13px;
+    display:block;
+    margin:0 auto;
+    background: url("../images/c.png") no-repeat;
+}
+.me {
+    background: url("../images/me1.png") no-repeat;
+    width:57px;
+    height:57px;
+    margin:0 20px 0 20px;
+    border:solid 3px #C0C0C0;
+    display:block;
+}
+.uiux {
+    background: url("../images/iosand.png") no-repeat;
+    width:92px;
+    height:99px;
+    display:block;
+    margin:0 auto;
+}
