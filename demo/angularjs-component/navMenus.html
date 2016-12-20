@@ -1,0 +1,11 @@
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <ul class="nav navbar-nav">
+      <li ng-repeat="face in $ctrl.faces" ng-class="{active:face.selected}">
+        <a data-toggle="tab" href="" ng-click="$ctrl.select(face)">{{face.title}}</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<div class="tab-content" ng-transclude></div>

@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>component-example</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://code.angularjs.org/snapshot/angular.min.js"></script>
+    <script src="app/app.js"></script>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body ng-app="componentExample">
+
+    <nav-menus>
+        <nav-faces title="AngularJS">
+            <h4>AngularJS</h4>
+            <p>Component tab menu example. Try it.</p>
+        </nav-faces>
+        <nav-faces title="Data Binding">
+            <h4>Data Binding</h4>           
+            <p>To use with external data binding in a component</p>
+            <ul class="list-group">
+                <li class="list-group-item list-group-item-danger"> <span class="ff-b">&#61;</span> for Two-way binding</li>
+                <li class="list-group-item list-group-item-info"> <span class="ff-b"> &#60;</span> for One-way binding</li>
+                <li class="list-group-item list-group-item-warning"> <span class="ff-b">&#38;</span> for Callbacks binding</li>
+                <li class="list-group-item list-group-item-success"> <span class="ff-b">&#64;</span> for String binding</li>
+            </ul>
+        </nav-faces>
+        <nav-faces title="Lifecycle hooks">
+            <h4>Lifecycle hooks</h4>
+            <p>These methods are called at some points in the life of a component</p>
+            <ul class="list-group">
+                <li class="list-group-item list-group-item-success"> <span class="ff-b">$onInit():</span> for initialization codes for controller.</li>
+                <li class="list-group-item list-group-item-info"> <span class="ff-b">$onChanges(changesObj):</span> called on one-way data binding</li>
+                <li class="list-group-item "> <span class="ff-b">$doCheck():</span> to detect and act on changes</li>
+                <li class="list-group-item list-group-item-warning"> <span class="ff-b">$onDestroy():</span> to release external resources and event handlers</li>
+                <li class="list-group-item list-group-item-danger"> <span class="ff-b">$postLink():</span> to link controller’s element and its children</li>
+
+            </ul>
+        </nav-faces>
+        <nav-faces title="UI Contact">
+            <h4>UI Contact</h4>
+            <p class="ml-5">For refactoring Angular 1.x directives to components:</p>
+            <table class="table table-condensed">
+                <thead>
+                    <tr>
+                        <th>Contact: <span class="normal">Naser Afsar</span></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="mailto:nafsar@gmail.com" class="glyphicon glyphicon-envelope"></a>&nbsp;: nafsar@gmail.com</td>
+                    </tr>
+                </tbody>
+            </table> 
+        </nav-faces>
+    </nav-menus>
+</body>
+
+</html>
