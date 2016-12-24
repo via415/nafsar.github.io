@@ -35,5 +35,19 @@
       },
       templateUrl: 'navMenus.html'
     })
+    .component('webBrowser', {
+      transclude: true,
+      templateUrl: 'app/wb.html'
+    })
+    .component('contact', {
+      templateUrl: 'app/contact.html'
+    })
+    .component('lifeHook', {
+      templateUrl: 'app/lh.html'
+    })
+    .component('bind', {
+      templateUrl: 'app/db.html'
+    })
+
 
 })(window.angularComponent);
