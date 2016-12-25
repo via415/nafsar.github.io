@@ -52,25 +52,25 @@ table.browserref .bsOpera    {background-image:url('../img/compatible_opera.gif'
 }
 @-webkit-keyframes change {
 	0%, 20%, 60%, 100%  { -webkit-transform: translateX(0); 
-    -webkit-box-shadow:0 0 60px red; 
-    -moz-box-shadow: 0 0 60px red; 
-    box-shadow:0 0 60px red;
+    -webkit-box-shadow:0 0 200px red; 
+    -moz-box-shadow: 0 0 200px red; 
+    box-shadow:0 0 200px red;
   }
     40%  { -webkit-transform: translateY(0px); 
-    -webkit-box-shadow:0 0 60px #ff9999; 
-    -moz-box-shadow: 0 0 60px #ff9999; 
-    box-shadow:0 0 60px #ff9999;
+    -webkit-box-shadow:0 0 200px #ff9999; 
+    -moz-box-shadow: 0 0 200px #ff9999; 
+    box-shadow:0 0 200px #ff9999;
     }
 	80% { -webkit-transform: translateX(0px); 
-    -webkit-box-shadow:0 0 60px  #ff6666; 
-    -moz-box-shadow: 0 0 60px b #ff6666; 
-    box-shadow:0 0 60px  #ff6666;
+    -webkit-box-shadow:0 0 100px  #ff6666; 
+    -moz-box-shadow: 0 0 100px b #ff6666; 
+    box-shadow:0 0 100px  #ff6666;
   
   }
   	100% { -webkit-transform: translateX(0px); 
-    -webkit-box-shadow:0 0 60px  red; 
-    -moz-box-shadow: 0 0 60px b red; 
-    box-shadow:0 0 60px  red;
+    -webkit-box-shadow:0 0 100px  red; 
+    -moz-box-shadow: 0 0 100px b red; 
+    box-shadow:0 0 100px  red;
   
   }
  
