@@ -12,6 +12,7 @@
       controller: function () {
         this.$onInit = function () {
           this.tabsCtrl.addFace(this);
+          
         };
       },
       templateUrl: 'navFaces.html'
