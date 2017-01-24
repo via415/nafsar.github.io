@@ -1,0 +1,24 @@
+  
+  <div class="uiux-box uiux-margin minLength">
+  <div class="uiux-size">
+    <h3 class="uiux-center">Add or delete</h3>
+  </div>
+  <ul class="uiux-ul">
+    <li ng-repeat="item in ctrl.items" class="uiux-padding-16"> <!-- &#128686; -->
+      <span>{{item}}</span>
+      <span ng-click="ctrl.removeItem($index)"  class="uiux-right uiux-hover" title="delete" >&#10060; </span>
+    </li>
+  </ul>
+  <div class="uiux-box uiux-light-grey">
+    <div class="uiux-row uiux-margin-top">
+      <div class="uiux-col s10">
+        <input placeholder="{{ctrl.pholder}}" ng-model="ctrl.addData" class="uiux-input uiux-padding" maxlength="40">
+      </div>
+      <div class="uiux-col s2">
+        <button ng-click="ctrl.addItem()" class="uiux-btn uiux-blue" >Add</button>
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
+  
