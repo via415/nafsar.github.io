@@ -17,6 +17,8 @@ ul.uiux-ul li {
     padding-top: 16px;
     background-color: #9e9e9e;
     color: #000;
+    border-top-left-radius: 8px; 
+    border-top-right-radius:8px;
 }
 .uiux-grey {
     background-color: #9e9e9e;
