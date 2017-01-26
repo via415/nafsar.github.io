@@ -3,7 +3,9 @@
 }
 
 .uiux-margin {
-    margin: 20px 20% 0 20%;
+     max-width:700px;
+   /* margin: 20px 20% 0 20%; */
+   margin: 20px auto auto auto;  
 }
 
 ul.uiux-ul li {
