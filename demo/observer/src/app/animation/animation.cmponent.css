@@ -1,0 +1,32 @@
+.notification_div {
+    width: 98%;
+    height: 0;
+    background-color: white;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    position: absolute;
+}
+
+.notification_div.active {
+    transition: height 15s;
+    height: 50%;
+    background-color: #C0C0C0;
+}
+
+.notification_div.inactive {
+    transition: height 15s;
+    height: 40%;
+    background-color: white;
+}
+
+.al_cntr {
+    text-align: center;
+}
+
+.start_margin {
+    margin: 20px;
+}
+
+.cancel_margin {
+    margin-left: 20px;
+}
