@@ -12,13 +12,40 @@
     
     button {
         margin-bottom: 10px;
-        box-shadow: 2px 2px 1px #acb3f3;
+        box-shadow: 2px 2px 1px #717ffa;
         
     }
     
     
 }
 a {
-    text-decoration:none;color:rgb(22, 21, 21);
+    text-decoration:none;color:white;
+    font-size:16px;
 }
 
+button{
+    
+    background-color: #1E90FF;
+    
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    margin-right:10px;
+    width:200px;
+}
+a:hover {
+    color:rgb(155, 253, 69);
+    font-weight: bolder
+}
