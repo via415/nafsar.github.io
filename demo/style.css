@@ -1,4 +1,4 @@
-.container {
+/* .container {
     display: flex;justify-content: center;margin:40px;
     flex-wrap: wrap;
     width:100%;
@@ -44,9 +44,9 @@ button{
     transition: background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
     margin-right:10px;
     width:200px;
-}
+} */
 a:hover {
-    color:rgb(155, 253, 69);
+    color:rgb(253, 69, 146);
     font-weight: bolder
 }
 .angular {
@@ -59,4 +59,15 @@ a:hover {
 .cnt{
     margin-top:10px;
     text-align:center;display:block;
+}
+a {
+    margin:2px;
+    width:152px;
+   
+}
+span {
+    font-size:12px;
+}
+.flo {
+    margin: 0 20px 0 20px;
 }
