@@ -49,3 +49,14 @@ a:hover {
     color:rgb(155, 253, 69);
     font-weight: bolder
 }
+.angular {
+    display: block;
+    width: 45px;
+    height: 45px;
+    background-image: url(images/angular.png);
+    text-align: center;
+}
+.cnt{
+    margin-top:10px;
+    text-align:center;display:block;
+}
