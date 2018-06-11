@@ -1,4 +1,19 @@
 [
+        {
+        "month": "July",
+        "name": "Randy",
+        "rec": "June 9"
+    },
+    {
+        "month": "",
+        "name": "Mario",
+        "rec": "self-restraint"
+    },
+    {
+        "month": "",
+        "name": "Dave",
+        "rec": ""
+    },            
     {
         "month": "June",
         "name": "Randy",
@@ -12,7 +27,7 @@
     {
         "month": "",
         "name": "Dave",
-        "rec": ""
+        "rec": "June 9"
     },            
     {
         "month": "May",
