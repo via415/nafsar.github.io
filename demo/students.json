@@ -1,4 +1,19 @@
 [
+   {
+        "month": "August",
+        "name": "Mario",
+        "rec": "August 3"
+    },
+     {
+        "month": "",
+        "name": "Randy",
+        "rec": "August 3"
+    },
+    {
+        "month": "",
+        "name": "Dave",
+        "rec": ""
+    },    
     {
         "month": "July",
         "name": "Dave",
@@ -12,7 +27,7 @@
     {
         "month": "",
         "name": "Randy",
-        "rec": ""
+        "rec": "August 3"
     },    
     {
         "month": "June",
