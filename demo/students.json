@@ -1,4 +1,34 @@
 [
+        {
+        "month": "December",
+        "name": "Randy",
+        "rec": "October 19"
+    },
+     {
+        "month": "",
+        "name": "Dave",
+        "rec": ""
+    },
+      {
+        "month": "",
+        "name": "Mario",
+        "rec": ""
+    },   
+    {
+        "month": "November",
+        "name": "Randy",
+        "rec": "October 19"
+    },
+     {
+        "month": "",
+        "name": "Dave",
+        "rec": ""
+    },
+      {
+        "month": "",
+        "name": "Mario",
+        "rec": ""
+    },   
     {
         "month": "October",
         "name": "Randy",
@@ -12,7 +42,7 @@
     {
         "month": "",
         "name": "Mario",
-        "rec": ""
+        "rec": "October 19"
     },    
       {
         "month": "September",
