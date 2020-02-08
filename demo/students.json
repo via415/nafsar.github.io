@@ -1,6 +1,6 @@
 [
             {
-        "month": "February 2020",
+        "month": "February",
         "name": "Randy",
         "rec": "Feb 8"
     },   
@@ -10,12 +10,12 @@
         "rec": ""
     },
       {
-        "month": "",
+        "month": "January",
         "name": "Dave",
-        "rec": ""
+        "rec": "January 4"
     },   
         {
-        "month": "January 2020",
+        "month": "",
         "name": "Randy",
         "rec": "January 4"
     },
