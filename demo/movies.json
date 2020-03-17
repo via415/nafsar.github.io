@@ -8,16 +8,16 @@
 }, {
 	"id": 1,
 	"title": "Mario",
-	"year": "March",
+	"year": "",
 	"image": "",
-	"created_at": "",
+	"created_at": "Feb 20",
 	"updated_at": "2019-10-06T18:05:31.649Z"
 }, {
 	"id": 4,
 	"title": "Dave",
 	"year": "",
 	"image": "",
-	"created_at": "March",
+	"created_at": "March 6",
 	"updated_at": "2019-10-06T18:05:50.242Z"
 }, {
 	"id": 6,
