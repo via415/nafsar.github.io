@@ -1,23 +1,23 @@
 [{
 	"id": 5,
 	"title": "Randy",
-	"year": "2019",
+	"year": "March",
 	"image": "",
-	"created_at": "Jan 2020",
+	"created_at": "March",
 	"updated_at": "2019-10-06T17:55:21.374Z"
 }, {
 	"id": 1,
 	"title": "Mario",
-	"year": "1994",
+	"year": "",
 	"image": "",
-	"created_at": "February 20",
+	"created_at": "March",
 	"updated_at": "2019-10-06T18:05:31.649Z"
 }, {
 	"id": 4,
 	"title": "Dave",
-	"year": "1972",
+	"year": "",
 	"image": "",
-	"created_at": "March 15",
+	"created_at": "March",
 	"updated_at": "2019-10-06T18:05:50.242Z"
 }, {
 	"id": 6,
