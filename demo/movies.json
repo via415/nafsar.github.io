@@ -3,14 +3,14 @@
 	"title": "Randy",
 	"year": "March",
 	"image": "",
-	"created_at": "March",
+	"created_at": "March 10",
 	"updated_at": "2019-10-06T17:55:21.374Z"
 }, {
 	"id": 1,
 	"title": "Mario",
-	"year": "",
+	"year": "March",
 	"image": "",
-	"created_at": "March",
+	"created_at": "",
 	"updated_at": "2019-10-06T18:05:31.649Z"
 }, {
 	"id": 4,
