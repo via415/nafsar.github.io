@@ -6,7 +6,7 @@
         "image": "",
         "created_at": "May - September",
         "updated_at": "2019-10-06T17:55:21.374Z",
-        "rel": 0
+        "userid": 0
     },
     {
         "id": 21,
@@ -15,7 +15,7 @@
         "image": "",
         "created_at": "",
         "updated_at": "2019-10-06T18:05:31.649Z",
-        "rel": 1
+        "userid": 1
     },
     {
         "id": 24,
@@ -24,7 +24,7 @@
         "image": "",
         "created_at": "March - July",
         "updated_at": "2019-10-06T18:05:50.242Z",
-        "rel": 2
+        "userid": 2
     },
     {
         "id": 26,
@@ -33,7 +33,7 @@
         "image": "",
         "created_at": "March 10",
         "updated_at": "2019-10-06T18:05:50.242Z",
-        "rel": 3
+        "userid": 3
     },
     {
         "id": 27,
@@ -42,7 +42,7 @@
         "image": "",
         "created_at": "March 9",
         "updated_at": "2019-10-06T18:05:50.242Z",
-        "rel": 4
+        "userid": 4
     },
     {
         "id": 28,
@@ -51,7 +51,7 @@
         "image": "",
         "created_at": "March 8",
         "updated_at": "2019-10-06T18:05:50.242Z",
-        "rel": 5
+        "userid": 5
     },
     {
         "id": 15,
@@ -60,7 +60,7 @@
         "image": "",
         "created_at": "⛔",
         "updated_at": "2019-10-06T17:55:21.374Z",
-        "rel": 2
+        "userid": 2
     },
     {
         "id": 11,
@@ -69,7 +69,7 @@
         "image": "",
         "created_at": "⛔",
         "updated_at": "2019-10-06T18:05:31.649Z",
-        "rel": 1
+        "userid": 1
     },
     {
         "id": 14,
@@ -78,7 +78,7 @@
         "image": "",
         "created_at": "⛔",
         "updated_at": "2019-10-06T18:05:50.242Z",
-        "rel": 0
+        "userid": 0
     },
     {
         "id": 5,
@@ -87,7 +87,7 @@
         "image": "",
         "created_at": "February 15",
         "updated_at": "2019-10-06T17:55:21.374Z",
-        "rel": 0
+        "userid": 0
     },
     {
         "id": 1,
@@ -96,7 +96,7 @@
         "image": "",
         "created_at": "May 2",
         "updated_at": "2019-10-06T18:05:31.649Z",
-        "rel": 1
+        "userid": 1
     },
     {
         "id": 4,
@@ -105,7 +105,7 @@
         "image": "",
         "created_at": "March - June",
         "updated_at": "2019-10-06T18:05:50.242Z",
-        "rel": 2
+        "userid": 2
     },
     {
         "id": 6,
@@ -114,7 +114,7 @@
         "image": "",
         "created_at": "February 8",
         "updated_at": "2019-10-06T18:06:12.933Z",
-        "rel": 1
+        "userid": 1
     },
     {
         "id": 7,
@@ -123,7 +123,7 @@
         "image": "",
         "created_at": "February 15",
         "updated_at": "2019-10-06T18:06:33.096Z",
-        "rel": 0
+        "userid": 0
     },
     {
         "id": 8,
@@ -132,7 +132,7 @@
         "image": "",
         "created_at": "February 29",
         "updated_at": "2019-10-06T18:06:52.034Z",
-        "rel": 2
+        "userid": 2
     },
     {
         "id": 2,
@@ -141,7 +141,7 @@
         "image": "",
         "created_at": "December 29, 2019",
         "updated_at": "2019-10-06T18:08:00.902Z",
-        "rel": 0
+        "userid": 0
     },
     {
         "id": 3,
@@ -150,7 +150,7 @@
         "image": "",
         "created_at": "January 4",
         "updated_at": "2019-10-06T18:08:47.637Z",
-        "rel": 1
+        "userid": 1
     },
     {
         "id": 12,
@@ -159,7 +159,7 @@
         "image": "",
         "created_at": "February 8",
         "updated_at": "2019-10-06T18:08:47.637Z",
-        "rel": 2
+        "userid": 2
     }
 ]
 
