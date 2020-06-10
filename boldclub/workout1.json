@@ -21,7 +21,7 @@
         "id": 24,
         "title": "Student3",
         "year": "",
-        "image": "",
+        "image": "1",
         "created_at": "March - July",
         "updated_at": "March 7",
         "userid": 2
@@ -30,7 +30,7 @@
         "id": 26,
         "title": "Student4",
         "year": "",
-        "image": "",
+        "image": "2",
         "created_at": "March 10",
         "updated_at": "March 13",
         "userid": 3
@@ -39,7 +39,7 @@
         "id": 27,
         "title": "Student5",
         "year": "",
-        "image": "",
+        "image": "3",
         "created_at": "March 9",
         "updated_at": "February 14",
         "userid": 4
@@ -48,7 +48,7 @@
         "id": 28,
         "title": "Student6",
         "year": "",
-        "image": "",
+        "image": "10",
         "created_at": "March 8",
         "updated_at": "March 17",
         "userid": 5
@@ -57,7 +57,7 @@
         "id": 15,
         "title": "Student3",
         "year": "April 2020 🦠",
-        "image": "",
+        "image": "9",
         "created_at": "⛔",
         "updated_at": "April 1",
         "userid": 2
@@ -66,7 +66,7 @@
         "id": 11,
         "title": "Student2",
         "year": "",
-        "image": "",
+        "image": "8",
         "created_at": "⛔",
         "updated_at": "April 2",
         "userid": 1
@@ -75,7 +75,7 @@
         "id": 14,
         "title": "Student1",
         "year": "",
-        "image": "",
+        "image": "10",
         "created_at": "⛔",
         "updated_at": "April 4",
         "userid": 0
@@ -84,7 +84,7 @@
         "id": 5,
         "title": "Student1",
         "year": "March 2020",
-        "image": "",
+        "image": "12",
         "created_at": "February 15",
         "updated_at": "March 18",
         "userid": 0
@@ -93,7 +93,7 @@
         "id": 1,
         "title": "Student2",
         "year": "",
-        "image": "",
+        "image": "14",
         "created_at": "May 2",
         "updated_at": "February 14",
         "userid": 1
@@ -102,7 +102,7 @@
         "id": 4,
         "title": "Student3",
         "year": "",
-        "image": "",
+        "image": "15",
         "created_at": "March - June",
         "updated_at": "February 20",
         "userid": 2
@@ -120,7 +120,7 @@
         "id": 7,
         "title": "Student1",
         "year": "",
-        "image": "",
+        "image": "11",
         "created_at": "February 15",
         "updated_at": "February 11",
         "userid": 0
@@ -138,7 +138,7 @@
         "id": 2,
         "title": "Student1",
         "year": "January 2020",
-        "image": "",
+        "image": "7",
         "created_at": "December 29, 2019",
         "updated_at": "January 2",
         "userid": 0
@@ -147,7 +147,7 @@
         "id": 3,
         "title": "Student2",
         "year": "",
-        "image": "",
+        "image": "8",
         "created_at": "January 4",
         "updated_at": "January 6",
         "userid": 1
@@ -156,7 +156,7 @@
         "id": 12,
         "title": "Student3",
         "year": "",
-        "image": "",
+        "image": "15",
         "created_at": "February 8",
         "updated_at": "January 10",
         "userid": 2
