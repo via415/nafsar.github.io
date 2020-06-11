@@ -28,7 +28,7 @@
     },
     {
         "id": 25,
-        "title": "Student1",
+        "title": "Student",
         "year": "May 2020",
         "image": "ry",
         "created_at": "May - September",
@@ -62,24 +62,7 @@
         "updated_at": "March 13",
         "userid": 3
     },
-    {
-        "id": 27,
-        "title": "Student5",
-        "year": "",
-        "image": "blank",
-        "created_at": "March 9",
-        "updated_at": "February 14",
-        "userid": 4
-    },
-    {
-        "id": 28,
-        "title": "Student6",
-        "year": "",
-        "image": "blank",
-        "created_at": "March 8",
-        "updated_at": "March 17",
-        "userid": 5
-    },
+    
     {
         "id": 15,
         "title": "Student3",
