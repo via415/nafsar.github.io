@@ -2,7 +2,7 @@
     {
         "id": 31,
         "title": "Student1",
-        "year": "June 2020",
+        "year": "June",
         "image": "4m",
         "created_at": "May - September",
         "updated_at": "May 30",
@@ -29,7 +29,7 @@
     {
         "id": 21,
         "title": "Student",
-        "year": "May 2020",
+        "year": "May",
         "image": "4m",
         "created_at": "May - September",
         "updated_at": "May 30",
@@ -66,7 +66,7 @@
     {
         "id": 11,
         "title": "Student3",
-        "year": "April 2020",
+        "year": "April",
         "image": "4m",
         "created_at": "April 1",
         "updated_at": "April 1",
@@ -93,7 +93,7 @@
     {
         "id": 1,
         "title": "Student1",
-        "year": "March 2020",
+        "year": "March",
         "image": "4m",
         "created_at": "February 15",
         "updated_at": "March 18",
@@ -120,7 +120,7 @@
     {
         "id": 4,
         "title": "Student2",
-        "year": "February 2020",
+        "year": "February",
         "image": "4m",
         "created_at": "February 8",
         "updated_at": "March 23",
@@ -147,7 +147,7 @@
     {
         "id": 7,
         "title": "Student1",
-        "year": "January 2020",
+        "year": "January",
         "image": "3f",
         "created_at": "December 29, 2019",
         "updated_at": "January 2",
