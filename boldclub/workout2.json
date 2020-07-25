@@ -3,7 +3,7 @@
         "id": 41,
         "title": "Dave",
         "year": "July",
-        "image": "4m",
+        "image": "dav2",
         "sport": "Yoga",
         "january": 1,
         "february": 1,
@@ -25,7 +25,7 @@
         "id": 44,
         "title": "Randy",
         "year": "",
-        "image": "4m",
+        "image": "ran1",
         "sport": "Yoga",
         "january": 1,
         "february": 1,
@@ -47,7 +47,7 @@
         "id": 45,
         "title": "Mario",
         "year": "",
-        "image": "4m",
+        "image": "mar1",
         "sport": "Soccer",
         "january": 1,
         "february": 1,
@@ -85,7 +85,7 @@
         "december": 0,
         "created_at": "June",
         "updated_at": "June",
-        "userid": 0
+        "userid": 3
     },
     {
         "id": 34,
@@ -107,7 +107,7 @@
         "december": 0,
         "created_at": "June 6",
         "updated_at": "June",
-        "userid": 1
+        "userid": 4
     },
     {
         "id": 35,
@@ -129,7 +129,7 @@
         "december": 0,
         "created_at": "June",
         "updated_at": "June",
-        "userid": 2
+        "userid": 5
     },
     {
         "id": 21,
@@ -151,7 +151,7 @@
         "december": 0,
         "created_at": "May",
         "updated_at": "May 30",
-        "userid": 0
+        "userid": 6
     },
     {
         "id": 24,
@@ -218,7 +218,7 @@
         "december": 0,
         "created_at": "⛔",
         "updated_at": "April",
-        "userid": 2
+        "userid": 1
     },
     {
         "id": 12,
@@ -240,7 +240,7 @@
         "december": 0,
         "created_at": "⛔",
         "updated_at": "April",
-        "userid": 1
+        "userid": 2
     },
     {
         "id": 13,
@@ -284,7 +284,7 @@
         "december": 0,
         "created_at": "March",
         "updated_at": "March",
-        "userid": 0
+        "userid": 2
     },
     {
         "id": 2,
@@ -328,7 +328,7 @@
         "december": 0,
         "created_at": "Feb 15",
         "updated_at": "March",
-        "userid": 2
+        "userid": 0
     },
     {
         "id": 4,
@@ -372,7 +372,7 @@
         "december": 0,
         "created_at": "February 29",
         "updated_at": "February",
-        "userid": 0
+        "userid": 2
     },
     {
         "id": 6,
@@ -394,7 +394,7 @@
         "december": 0,
         "created_at": "February 15",
         "updated_at": "February",
-        "userid": 2
+        "userid": 0
     }
     
 ]
