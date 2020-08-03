@@ -1,8 +1,8 @@
 [
 	{
-		"month": "July 2020",
+		"month": "August 2020",
 		"name": "Randy",
-		"rec": ""
+		"rec": "July - September"
 	},
 	{
 		"month": "",
@@ -10,9 +10,19 @@
 		"rec": "May - September"
 	},
 	{
+		"month": "July 2020",
+		"name": "Dave",
+		"rec": "May - September"
+	},
+	{
+		"month": "",
+		"name": "Randy",
+		"rec": "July - September"
+	},
+	{
 		"month": "",
 		"name": "Mario",
-		"rec": "July"
+		"rec": "March - July"
 	},
 	{
 		"month": "June 2020",
@@ -30,95 +40,93 @@
 		"rec": "June 6"
 	},
 	{
-	"month": "May 2020",
-	"name": "Dave",
-	"rec": "May - September"
-},
-{
-	"month": "",
-	"name": "Randy",
-	"rec": "June 6"
-},
-{
-	"month": "",
-	"name": "Mario",
-	"rec": "March - July"
-},
-{
-	"month": "April 2020 🦠",
-	"name": "Mario",
-	"rec": "⛔"
-},
-{
-	"month": "",
-	"name": "Randy",
-	"rec": "⛔"
-},
-{
-	"month": "",
-	"name": "Dave",
-	"rec": "⛔"
-},
-
-{
-	"month": "March 2020",
-	"name": "Dave",
-	"rec": "February 15"
-},
-{
-	"month": "",
-	"name": "Randy",
-	"rec": "May 2"
-},
-{
-	"month": "",
-	"name": "Mario",
-	"rec": "March - June"
-},
-{
-	"month": "February 2020",
-	"name": "Randy",
-	"rec": "February 8"
-},
-{
-	"month": "",
-	"name": "Dave",
-	"rec": "February 15"
-},
-{
-	"month": "",
-	"name": "Mario",
-	"rec": "February 29"
-},
-{
-	"month": "January 2020",
-	"name": "Dave",
-	"rec": "December 29, 2019"
-},
-{
-	"month": "",
-	"name": "Randy",
-	"rec": "January 4"
-},
-{
-	"month": "",
-	"name": "Mario",
-	"rec": "February 8"
-},
-{
-	"month": "December 2019",
-	"name": "Mario",
-	"rec": "January 11, 2020"
-},
-{
-	"month": "",
-	"name": "Randy",
-	"rec": "October 19, 2019"
-},
-{
-	"month": "",
-	"name": "Dave",
-	"rec": "December 7, 2019"
-}
-
+		"month": "May 2020",
+		"name": "Dave",
+		"rec": "May - September"
+	},
+	{
+		"month": "",
+		"name": "Randy",
+		"rec": "June 6"
+	},
+	{
+		"month": "",
+		"name": "Mario",
+		"rec": "March - July"
+	},
+	{
+		"month": "April 2020 🦠",
+		"name": "Mario",
+		"rec": "⛔"
+	},
+	{
+		"month": "",
+		"name": "Randy",
+		"rec": "⛔"
+	},
+	{
+		"month": "",
+		"name": "Dave",
+		"rec": "⛔"
+	},
+	{
+		"month": "March 2020",
+		"name": "Dave",
+		"rec": "February 15"
+	},
+	{
+		"month": "",
+		"name": "Randy",
+		"rec": "May 2"
+	},
+	{
+		"month": "",
+		"name": "Mario",
+		"rec": "March - June"
+	},
+	{
+		"month": "February 2020",
+		"name": "Randy",
+		"rec": "February 8"
+	},
+	{
+		"month": "",
+		"name": "Dave",
+		"rec": "February 15"
+	},
+	{
+		"month": "",
+		"name": "Mario",
+		"rec": "February 29"
+	},
+	{
+		"month": "January 2020",
+		"name": "Dave",
+		"rec": "December 29, 2019"
+	},
+	{
+		"month": "",
+		"name": "Randy",
+		"rec": "January 4"
+	},
+	{
+		"month": "",
+		"name": "Mario",
+		"rec": "February 8"
+	},
+	{
+		"month": "December 2019",
+		"name": "Mario",
+		"rec": "January 11, 2020"
+	},
+	{
+		"month": "",
+		"name": "Randy",
+		"rec": "October 19, 2019"
+	},
+	{
+		"month": "",
+		"name": "Dave",
+		"rec": "December 7, 2019"
+	}
 ]
