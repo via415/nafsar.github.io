@@ -16,7 +16,7 @@
     "october": 0,
     "november": 0,
     "december": 0,
-    "created_at": "October",
+    "created_at": "",
     "updated_at": "Sep",
     "userid": 0
 },
@@ -38,7 +38,7 @@
     "october": 0,
     "november": 0,
     "december": 0,
-    "created_at": "October",
+    "created_at": "",
     "updated_at": "Sep",
     "userid": 1
 },
@@ -61,7 +61,7 @@
     "november": 0,
     "december": 0,
     "created_at": "",
-    "updated_at": "Sep",
+    "updated_at": "",
     "userid": 2
 },
 
