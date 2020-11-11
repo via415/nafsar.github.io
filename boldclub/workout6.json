@@ -2,8 +2,7 @@
     {
         "id": 55,
         "title": "Randy",
-        "year": "November",
-        "image": "4m",
+        "year": "November", "image": "4m",
         "sport": "Yoga",
         "created_at": "",
         "updated_at": "Nov",
@@ -297,3 +296,4 @@
         "userid": 0
     }
 ]
+
