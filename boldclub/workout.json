@@ -65,28 +65,7 @@
     "updated_at": "D5-pool",
     "userid": 0
 },
-{
-    "id": 11,
-    "title": "Shimzu",
-    "year": "",
-    "image": "3f",
-    "sport": "Yoga",
-    "january": 1,
-    "february": 1,
-    "march": 1,
-    "april": 1,
-    "may": 1,
-    "june": 1,
-    "july": 1,
-    "august": 0,
-    "september": 0,
-    "october": 0,
-    "november": 0,
-    "december": 0,
-    "created_at": "✔️",
-    "updated_at": "D7-panera",
-    "userid": 1
-},
+
 {
     "id": 12,
     "title": "Eva",
@@ -109,28 +88,7 @@
     "updated_at": "",
     "userid": 2
 },
-{
-    "id": 13,
-    "title": "Kylie",
-    "year": "",
-    "image": "3f",
-    "sport": "Yoga",
-    "january": 1,
-    "february": 1,
-    "march": 1,
-    "april": 1,
-    "may": 1,
-    "june": 1,
-    "july": 1,
-    "august": 0,
-    "september": 0,
-    "october": 0,
-    "november": 0,
-    "december": 0,
-    "created_at": "✔️",
-    "updated_at": "",
-    "userid": 2
-},
+
 {
     "id": 14,
     "title": "Jen",
